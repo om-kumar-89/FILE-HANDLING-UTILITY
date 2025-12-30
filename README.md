@@ -15,9 +15,7 @@ Mentor : NEELA SANTHOSH
 Description:
 
     The program demonstrates basic file handling operations in Java using the FileWriter, FileReader, and BufferedReader classes. It works with a text file named sample.txt and performs three main tasks: writing, reading, and appending data to the file.
-
 First, the program creates (or overwrites) the file and writes a line of text into it using FileWriter. After successfully writing, it opens the same file for reading using FileReader wrapped inside BufferedReader, and then displays the file content line-by-line on the console. Next, the program reopens the file in append mode to add additional text at the end of the existing content without deleting it. All file operations are enclosed in a try–catch block to handle any IOException that may occur, ensuring the program runs safely and reports errors if needed.
-
 This program effectively demonstrates how to create, write, read, and update text files in Java while following proper exception handling and resource-closing practices.
 
 Tools & Technologies Used:
