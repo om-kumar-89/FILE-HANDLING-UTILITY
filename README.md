@@ -24,8 +24,6 @@ Tools & Technologies Used:
 
   Editor/IDE: vs code
 
-  JDK Version: Java Development Kit 17 (or any version 8 and above)
-
   Libraries Used: java.io.*(optionally for future extensions)
 
   
