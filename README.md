@@ -2,7 +2,7 @@
 
 Company : CODTECH IT SOLUTIONS
 
-Name  :om kumar
+Name  : OM KUMAR
 
 Intern ID:CTIS1562
 
@@ -31,9 +31,11 @@ Tools & Technologies Used:
   Libraries Used: java.io.*(optionally for future extensions)
 
   
-
 Conclusion:
 This project is a practical introduction to file management using Java. It builds a strong foundation for understanding how data can be stored, retrieved, and manipulated in local systems. The simplicity and clarity of the code make it perfect for students aiming to enhance their Java skills and understand real-world application basics.
 
 OUTPUT:
+
+<img width="1620" height="404" alt="Image" src="https://github.com/user-attachments/assets/edaf154c-3f1a-4a20-88b8-3e5404be4c5e" />
+<img width="1495" height="277" alt="Image" src="https://github.com/user-attachments/assets/f68a0784-c898-45bc-bb0c-1f244f48bb0b" />
 
